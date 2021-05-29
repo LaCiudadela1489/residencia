@@ -729,7 +729,7 @@ input {
 
 textarea {
 	width: 552px;
-	height: 125px;
+	height: 120px;
 	border: 2px solid #d0d1d3;
 }
 
@@ -776,7 +776,7 @@ input[type=button],#colB input[type=button] {
 }
 
 #colB p {
-	margin: 12px 0 40px;
+	margin: 12px 0 10px;
 	font-size: 16px;
 	text-align: right;
 	line-height: 20px;
